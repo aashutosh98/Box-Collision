@@ -210,6 +210,6 @@ function getRandomBetween(min, max) {
   
   
   window.addEventListener("load", () => {
-    let b = new Box("board", WIDTH, HEIGHT);
+    let b = new Box("box", WIDTH, HEIGHT);
   });
   
